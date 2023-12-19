@@ -1,0 +1,16 @@
+.gradle
+.settings
+build
+bin
+/XOJANGBUNGEE/bin
+/XOJANGBUNGEE/rundir
+/epkcompiler/bin
+/XOJANGBUNGEE/rundir
+/lwjgl-rundir/_XOJstorage*
+/lwjgl-rundir/lwjgl_saves
+/lwjgl-rundir/filesystem
+/lwjgl-rundir/texturepacks
+/lwjgl-rundir/downloads
+/lwjgl-rundir/options.txt
+/bukkit/rundir*
+/bukkit/server/craftbukkit-src/*
