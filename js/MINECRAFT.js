@@ -1,9 +1,4 @@
-/**
- * Made by me (github.com/Zbomb2000)
- * This script loads the questions onto the html page
- * Licensed under the Mozilla Public License Version 2.0
- * More license information here: "https://www.mozilla.org/en-US/MPL/2.0/"
-*/
+
 
 console.log("I recommend not using the console to cheat.");
 console.log("It makes it not fun.");
